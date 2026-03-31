@@ -169,4 +169,7 @@ Built using:
 * `threading`
 * `tkinter`
 
+## Output
+<img width="902" height="690" alt="image" src="https://github.com/user-attachments/assets/364e4c65-caaf-4dfc-becd-24a6ebe27429" />
+
 ---
